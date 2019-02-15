@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>Mitchell's chocolate home page</title>
+    <meta name="google-site-verification" content="eGrw3mKa3QkTsxx5mU__qo6jA4l1SQLeQo4OUHh7HZE" />
   </head>
 <body>
   <a href="https://docs.google.com/presentation/d/1cr1zAaiRUxEsKgfWg_3jPBZHK8FQhSLjV7GZCLmAi-4/edit?usp=sharing">
