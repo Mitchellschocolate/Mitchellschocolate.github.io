@@ -5,6 +5,7 @@
   </head>
 <body>
   <a href="test.html"><h1>run 3</h1></a>
+  <a href="test2.html"><h1>2048</h1></a>
 
               
 </body>
